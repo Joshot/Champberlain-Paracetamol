@@ -6,7 +6,7 @@ Aplikasi ini dirancang untuk memberikan kemudahan dalam mengelola dan memonitor 
 Aplikasi ini menyediakan fitur-fitur seperti pembuatan grup, manajemen anggota, serta pencatatan dan pelacakan denda dengan antarmuka pengguna yang ramah.
 
 ### Link Github
-https://github.com/Fiskhl/paracetamol-compose
+https://github.com/Joshot/Champberlain-Paracetamol
 
 ### Link Google Play Store
 https://play.google.com/store/apps/details?id=com.champerlain.paracetamol
