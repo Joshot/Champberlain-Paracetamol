@@ -1,37 +1,35 @@
 # Champberlain
 
-### Deskripsi Aplikasi
-Champberlain adalah aplikasi manajemen denda yang dikembangkan oleh kelompok Paracetamol. 
-Aplikasi ini dirancang untuk memberikan kemudahan dalam mengelola dan memonitor denda untuk berbagai keperluan organisasi atau kepanitiaan. 
-Aplikasi ini menyediakan fitur-fitur seperti pembuatan grup, manajemen anggota, serta pencatatan dan pelacakan denda dengan antarmuka pengguna yang ramah.
+### Application Description
+Champberlain is a fine management application developed by the Paracetamol team. 
+This app is designed to provide ease in managing and monitoring fines for various organizational or committee needs. 
+It offers features such as group creation, member management, as well as fine recording and tracking with a user-friendly interface.
 
-### Link Github
+### Github Link
 https://github.com/Joshot/Champberlain-Paracetamol
 
-### Link Google Play Store
+### Google Play Store Link
 https://play.google.com/store/apps/details?id=com.champerlain.paracetamol
 
-### Anggota Kelompok Paracetamol
+### Paracetamol Team Members
 - Bryan Richie Irawan
 - Gregory Kurniawan
 - Joshua Hotama
 - Kafijaya
 
-### Fitur Utama
-- Pembuatan grup dan manajemen anggota.
-- Pencatatan dan pemantauan denda dengan detail lengkap.
-- Akses kontrol berbasis peran untuk pengguna dalam grup.
-- Laporan denda yang dapat diakses dengan mudah.
+### Main Features
+- Group creation and member management.
+- Fine recording and monitoring with complete details.
+- Role-based access control for users within the group.
+- Easily accessible fine reports.
 
-### Pengembangan
-Aplikasi ini dikembangkan menggunakan teknologi dan bahasa pemrograman terkini untuk memastikan kinerja dan keamanan yang optimal. Kami berkomitmen untuk terus meningkatkan dan memperbarui aplikasi agar sesuai dengan kebutuhan pengguna.
+### Development
+This application is developed using the latest technology and programming languages to ensure optimal performance and security. We are committed to continuously improving and updating the app to meet user needs.
 
-### Cara Menggunakan
-Untuk menggunakan Champberlain, pengguna perlu membuat akun dan dapat langsung mulai membuat grup, mengundang anggota, serta mencatat denda. Aplikasi ini dapat diakses dengan mudah melalui perangkat seluler.
+### How to Use
+To use Champberlain, users need to create an account and can immediately start creating groups, inviting members, and recording fines. The application is easily accessible through mobile devices.
 
-### Hubungi Kami
-Jika Anda memiliki pertanyaan, masukan, atau melaporkan masalah, jangan ragu untuk menghubungi tim pengembang kami melalui teamchampberlain@gmail.com.
+### Contact Us
+If you have any questions, feedback, or wish to report an issue, feel free to reach out to our development team at teamchampberlain@gmail.com.
 
-
-
-Terima kasih telah menggunakan Champberlain!
+Thank you for using Champberlain!
